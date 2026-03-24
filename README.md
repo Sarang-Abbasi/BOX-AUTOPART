@@ -6,6 +6,15 @@ A professional desktop application built for auto salvage businesses to manage p
 
 ---
 
+<img width="1366" height="728" alt="Screenshot 2026-03-24 135639" src="https://github.com/user-attachments/assets/9e0f50d8-5e72-4522-9715-c35f6f16c420" />
+<img width="1366" height="728" alt="Screenshot 2026-03-24 135655" src="https://github.com/user-attachments/assets/1cec72d3-0f84-4ba6-b2f3-2c3b08833b03" />
+<img width="1366" height="728" alt="Screenshot 2026-03-24 135705" src="https://github.com/user-attachments/assets/d70cb2ab-1b10-465c-8c7c-3fbfcfd00c9f" />
+<img width="1366" height="728" alt="Screenshot 2026-03-24 135715" src="https://github.com/user-attachments/assets/f9bae11a-87df-4a3b-8435-fe0fea88cc47" />
+<img width="1366" height="728" alt="Screenshot 2026-03-24 135725" src="https://github.com/user-attachments/assets/d67b2182-f1f1-40c9-938f-a8bb9158e25b" />
+<img width="1366" height="728" alt="Screenshot 2026-03-24 135857" src="https://github.com/user-attachments/assets/189385ae-4701-4f39-858b-45b12aabb8c1" />
+
+---
+
 ## Download & Install
 
 👉 **[Download Latest Installer — v1.0.0](../../releases/latest)**
